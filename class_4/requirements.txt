@@ -1,0 +1,9 @@
+numpy
+pandas
+pandas-datareader
+matplotlib
+seaborn
+lxml
+beautifulsoup4 
+html5lib
+requests
